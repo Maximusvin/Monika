@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monika/static/css/main.c2c6693e.chunk.css",
-    "main.js": "/monika/static/js/main.c4b7deb2.chunk.js",
-    "main.js.map": "/monika/static/js/main.c4b7deb2.chunk.js.map",
+    "main.js": "/monika/static/js/main.2bdd8dfd.chunk.js",
+    "main.js.map": "/monika/static/js/main.2bdd8dfd.chunk.js.map",
     "runtime-main.js": "/monika/static/js/runtime-main.8331fe3d.js",
     "runtime-main.js.map": "/monika/static/js/runtime-main.8331fe3d.js.map",
     "static/css/2.9e8c96c5.chunk.css": "/monika/static/css/2.9e8c96c5.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.9e8c96c5.chunk.css",
     "static/js/2.9067a2ca.chunk.js",
     "static/css/main.c2c6693e.chunk.css",
-    "static/js/main.c4b7deb2.chunk.js"
+    "static/js/main.2bdd8dfd.chunk.js"
   ]
 }

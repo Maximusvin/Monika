@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/monika/static/css/main.dbd8f9d0.chunk.css",
+    "main.js": "/monika/static/js/main.28618d49.chunk.js",
+    "main.js.map": "/monika/static/js/main.28618d49.chunk.js.map",
+    "runtime-main.js": "/monika/static/js/runtime-main.8331fe3d.js",
+    "runtime-main.js.map": "/monika/static/js/runtime-main.8331fe3d.js.map",
+    "static/css/2.9e8c96c5.chunk.css": "/monika/static/css/2.9e8c96c5.chunk.css",
+    "static/js/2.99ebdf73.chunk.js": "/monika/static/js/2.99ebdf73.chunk.js",
+    "static/js/2.99ebdf73.chunk.js.map": "/monika/static/js/2.99ebdf73.chunk.js.map",
+    "index.html": "/monika/index.html",
+    "static/css/2.9e8c96c5.chunk.css.map": "/monika/static/css/2.9e8c96c5.chunk.css.map",
+    "static/css/main.dbd8f9d0.chunk.css.map": "/monika/static/css/main.dbd8f9d0.chunk.css.map",
+    "static/js/2.99ebdf73.chunk.js.LICENSE.txt": "/monika/static/js/2.99ebdf73.chunk.js.LICENSE.txt",
+    "static/media/Kozlov.4bd3f2bc.png": "/monika/static/media/Kozlov.4bd3f2bc.png",
+    "static/media/index.css": "/monika/static/media/bg.29926e6f.png",
+    "static/media/all.css": "/monika/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/logo.c055764e.png": "/monika/static/media/logo.c055764e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8331fe3d.js",
+    "static/css/2.9e8c96c5.chunk.css",
+    "static/js/2.99ebdf73.chunk.js",
+    "static/css/main.dbd8f9d0.chunk.css",
+    "static/js/main.28618d49.chunk.js"
+  ]
+}

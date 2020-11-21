@@ -1,0 +1,21 @@
+[
+  { "id": 1, "message": "Hi" },
+  {
+    "id": 2,
+    "message": "OK, so whoever took them planned this and got rid of their texts"
+  },
+  {
+    "id": 3,
+    "message": "Hes reading his personal e-mails, looking at his browser history, online purchases."
+  },
+  {
+    "id": 4,
+    "message": "Email correspondence appears to corroborate your story."
+  },
+  { "id": 5, "message": "How are you" },
+  { "id": 6, "message": "Yo-yo-yo<" },
+  {
+    "id": 7,
+    "message": "History, European mostly, Renaissance and some remarkably incriminating correspondence between the Vatican and the Spanish king from the early 16th century."
+  }
+]

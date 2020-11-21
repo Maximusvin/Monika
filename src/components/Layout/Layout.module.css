@@ -1,0 +1,10 @@
+.wrapper {
+  display: grid;
+  grid-template-areas: 'aside mainContent';
+
+  grid-template-rows: 1fr;
+  grid-template-columns: 2fr 10fr;
+  margin: 0 auto;
+  width: 1200px;
+  padding-top: 90px;
+}

@@ -1,0 +1,29 @@
+[
+  { "id": 1, "message": "Hi, how are you", "like": 23, "dislike": 3 },
+  {
+    "id": 2,
+    "message": "I am Ok",
+    "like": 28,
+    "dislike": 2
+  },
+  {
+    "id": 3,
+    "message": "Fine",
+    "like": 13,
+    "dislike": 13
+  },
+  {
+    "id": 4,
+    "message": "Email correspondence appears to corroborate your story.",
+    "like": 23,
+    "dislike": 3
+  },
+  { "id": 5, "message": "How are you", "like": 27, "dislike": 32 },
+  { "id": 6, "message": "Yo-yo-yo", "like": 1, "dislike": 0 },
+  {
+    "id": 7,
+    "message": "History, European mostly, Renaissance and some remarkably incriminating correspondence between the Vatican and the Spanish king from the early 16th century.",
+    "like": 8,
+    "dislike": 1
+  }
+]

@@ -1,0 +1,53 @@
+.headerWrap {
+  width: 100%;
+  padding: 0 10%;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #3f4257;
+  box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.5);
+}
+
+.header > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerMenu {
+  display: flex;
+}
+
+.headerMenu li:not(:last-child) {
+  margin-right: 15px;
+}
+
+.headerMenu li a {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.8;
+}
+
+.headerMenu li a.active {
+  color: #ec5252;
+}
+
+.auth {
+  display: flex;
+  align-items: center;
+}
+
+.search {
+  margin-right: 20px;
+}
+
+.auth img {
+  width: 50px;
+}

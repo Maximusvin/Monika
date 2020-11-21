@@ -1,0 +1,26 @@
+.title {
+  margin-bottom: 25px;
+}
+
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dialogItems {
+}
+
+.dialogItems .active {
+  color: rgb(194, 0, 107);
+}
+
+.dialog:not(:last-child) {
+  margin-bottom: 7px;
+}
+
+.messages {
+}
+
+.message:not(:last-child) {
+  margin-bottom: 20px;
+}
